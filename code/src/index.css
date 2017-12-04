@@ -50,7 +50,7 @@ button {
 }
 
 button:hover {
-  border-color: pink;
+  border-color: turquoise;
   font-weight: bold;
-  color: pink;
+  color: turquoise;
 }
