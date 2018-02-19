@@ -2,7 +2,7 @@
   "name": "react-starter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://emeliesidesio.github.io/assignment-clock",
+  "homepage": "https://emeliesidesio.github.io/clock",
   "dependencies": {
     "eslint-config-technigo": "^1.4.0",
     "gh-pages": "^1.1.0",
